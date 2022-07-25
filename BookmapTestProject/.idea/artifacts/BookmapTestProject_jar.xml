@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BookmapTestProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookmapTestProject_jar</output-path>
+    <root id="archive" name="BookmapTestProject.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="BookmapTestProject" />
+      <element id="module-source" name="BookmapTestProject" />
+    </root>
+  </artifact>
+</component>
